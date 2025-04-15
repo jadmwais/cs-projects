@@ -39,10 +39,4 @@ Planned additions:
 
 ---
 
-## 📫 About Me
 
-I'm Jad Mwais, a computer science student focused on **backend development**, **cybersecurity**, and **systems programming**.  
-This repo reflects my technical growth and curiosity — and it's just getting started.
-
-📧 Email: **jadabu123@gmail.com**  
-🌐 GitHub: [@jadmwais](https://github.com/jadmwais)
