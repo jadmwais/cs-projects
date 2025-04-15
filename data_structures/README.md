@@ -8,11 +8,11 @@ This folder contains basic data structure implementations written in Python and 
 
 | Structure        | Language | Description                                 |
 |------------------|----------|---------------------------------------------|
-| Linked List      | Python   | Basic singly linked list with insertion     |
-| Stack            | Python   | LIFO structure using both list and class    |
-| Queue            | Python   | FIFO queue implementation with methods      |
-| Hash Map (Basic) | Python   | Basic hash table with collision handling    |
-| Binary Tree      | Python   | Basic binary search tree with traversal     |
+| Linked List      | C++      | Basic singly linked list with insertion     |
+| Stack            | C++      | LIFO structure using both list and class    |
+| Queue            | C++      | FIFO queue implementation with methods      |
+| Hash Map (Basic) | C++      | Basic hash table with collision handling    |
+| Binary Tree      | C++      | Basic binary search tree with traversal     |
 
 ---
 
